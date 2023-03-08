@@ -1,3 +1,3 @@
 # LuaRobotiks
 
-<a href="https://ibb.co/2FNSdL9"><img src="https://i.ibb.co/b6JFXy0/Lua-not-your-average-scripting-language-blog-hero.jpg" alt="Lua-not-your-average-scripting-language-blog-hero" border="0"></a>
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/jzxFP6K/LR-Logo.jpg" alt="LR-Logo" border="0"></a>
