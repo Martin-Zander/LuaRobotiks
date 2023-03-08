@@ -1,3 +1,2 @@
 # LuaRobotiks
-
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/jzxFP6K/LR-Logo.jpg" alt="LR-Logo" border="0"></a>
+<img src="https://mma.prnewswire.com/media/1513369/Educative_Logo.jpg"  width="600" height="300">
