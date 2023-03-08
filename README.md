@@ -5,5 +5,5 @@
 Robotiks is an Unreal Engine Plugin, that adds Robotiks that can be programmed and interact with each other at runtime.
 
 ## Dependencies
-Unreal Engine 5.1 \n
+Unreal Engine 5.1 \
 LuaMachine (Already Included) [https://github.com/rdeioris/LuaMachine]
