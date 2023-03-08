@@ -1,6 +1,6 @@
 # LuaRobotiks
 Lua-Robotiks is an UE5-Plugin, that adds Robotiks, that can interact with each other and can be programmed and executed at Runtime.
-[![As to Derail Logo](Img/AsToDerailThumbnail.png)](https://cdn.activestate.com/wp-content/uploads/2016/11/Lua-not-your-average-scripting-language-blog-hero.jpg)
+[![Lua](Img/Lua.png)](https://cdn.activestate.com/wp-content/uploads/2016/11/Lua-not-your-average-scripting-language-blog-hero.jpg)
 
 # As to Derail (Student Project)
 
