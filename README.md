@@ -1,2 +1,2 @@
 # LuaRobotiks
-<img src="https://mma.prnewswire.com/media/1513369/Educative_Logo.jpg"  width="600" height="300">
+<img src="https://i.ibb.co/jzxFP6K/LR-Logo.jpg"  width="600" height="300">
