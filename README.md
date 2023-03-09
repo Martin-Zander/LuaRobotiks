@@ -7,7 +7,7 @@ The Lua-Integration runs via an modified LuaMachine (originally by rdeioris [htt
 Robotiks is completly working in Multiplayer(Tested in ListenServer).
 
 # Get Started
-<img src="https://i.ibb.co/6nYtNGF/Bild-2023-03-09-013059662.png" alt="Bild-2023-03-09-013059662" border="0"></a>
+<img src="https://i.ibb.co/6nYtNGF/Bild-2023-03-09-013059662.png" alt="Bild-2023-03-09-013059662" border="0"></a> \
 The 10 Red Dots at the Left Side represent the Inputs/Connections this Robotiks has, Red means none, Green mean something. \
 The 10 Blue Buttons on the Right Side are used to Trigger Signals on this Robotiks manually. \
 The Green Button in the Right-Bottom corner is used to save your changes and to Reload Lua, so that your code can be executed. \
