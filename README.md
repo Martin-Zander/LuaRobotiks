@@ -12,6 +12,8 @@ Robotik-Functions are always orange and always need an "self" as the first argum
 
 Robotik-Override-Functions are always greenish and always only have an "self" as the first argument.
 <img src="https://i.ibb.co/cJjxTqy/Bild-2023-03-09-010251908.png" alt="Bild-2023-03-09-010251908" border="0"></a> 
+
+# Functions
 ```lua
 --Gets Called by the Signal-Function
 -- Functions -> [OnSignal0, OnSignal1, OnSignal2, OnSignal3, OnSignal4, OnSignal5
