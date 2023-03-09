@@ -15,6 +15,7 @@ The Green Button in the Right-Bottom corner is used to save your changes and to 
 The Blue Button in the Left-Bottom corner is used to send this Robotiks to all other Robotiks as an Input. \
 On which input this Robotiks will set itself on the other Robotiks depends on the ID that is set below. [0-9] \
 The Slider below that is the Frequency on which this Robotik should send itself to other Robotiks. Only Robotiks with the same Frequency will get this Robotiks as an Input when the "Send Self" Button is Pressed. [0-20000] \
+\
 The Right Button in the Top-Right Corner is used for exiting the Robotik.
 
 # Functions
