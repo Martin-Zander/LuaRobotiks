@@ -16,6 +16,7 @@ On which input this Robotiks will set itself on the other Robotiks depends on th
 The Input below that is the Frequency on which this Robotik should send itself to other Robotiks. Only Robotiks with the same Frequency will get this Robotiks as an Input when the "Send Self" Button is Pressed.
 The Right Button in the Top-Right Corner is used for exiting the Robotik.
 
+
 Robotik-Functions are always orange and always need an "self" as the first argument.
 <img src="https://i.ibb.co/MfLWD0f/Bild-2023-03-09-010044616.png" alt="Bild-2023-03-09-010044616" border="0"></a>
 
