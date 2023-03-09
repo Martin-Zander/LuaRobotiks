@@ -22,7 +22,6 @@ function OnSignal0(self)
 end
 
 Functions:
-```lua
 --Calls the OnSignal0-Function on the 5th input
 -- 5 = InputIndex
 -- 0 = SignalIndex
@@ -39,7 +38,7 @@ SignalSelf(self, 5)
 --Gets the Object Assigned at Input 5
 -- 5 = InputIndex
 target = GetInput(self, 5)
-```
+
 ```
 
 
