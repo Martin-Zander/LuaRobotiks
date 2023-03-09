@@ -1,5 +1,3 @@
-<img src="https://i.ibb.co/z5J3NYV/Bild-2023-03-09-014731109.png" alt="Bild-2023-03-09-014731109" border="0"></a>
-
 # Robotiks (UE5-Lua-Runtime-Plugin) [Multiplayer]
 
 Robotiks is an Unreal Engine Plugin, that adds Robotiks that can be programmed and interact with each other at runtime. \
