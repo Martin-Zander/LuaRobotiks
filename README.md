@@ -39,6 +39,54 @@ SignalSelf(self, 5)
 -- 5 = InputIndex
 target = GetInput(self, 5)
 
+--Shows msg on an screen.
+-- screen = Screen-Reference
+-- msg = Message
+msg = "Hello From Robotiks"
+ShowMessage(self, screen, msg)
+
+--Clears an screen.
+-- screen = Screen-Reference
+ClearScreen(self, screen)
+
+--Clears an Input by Index.
+-- 0 = Index
+ClearInput(self, 0)
+
+--Sets the Light-Intensity on an lamp.
+-- lamp = Lamp-Reference
+-- 1000 = Intensity
+SetLampPower(self, lamp, 1000)
+
+--Plays Music on an MusicBox.
+-- musicBox = MusicBox-Reference
+PlayMusic(self, musicBox)
+
+--Stops Music on an MusicBox.
+-- musicBox = MusicBox-Reference
+StopMusic(self, musicBox)
+
+--Sets an Value in the ValueBank (Needs to be in Level) at an Index for use in other Robotiks or for use at an later time.
+-- 0 = Index
+-- "Global Values Are Helpfull" = Value
+Set(self, 0, "Global Values Are Helpfull")
+Set(self, 1, 5)
+Set(self, 2, screen)
+
+
+--Gets an Value from ValueBank (Needs to be in Level).
+-- 0 = Index
+msg = Get(self, 0)
+magicNumber = Get(self, 1)
+coolScreen = Get(self, 2)
+
+--Opens an Door.
+-- door = Door-Reference
+OpenDoor(self, door)
+
+--Closes an Door.
+-- door = Door-Reference
+CloseDoor(self, door)
 ```
 
 
