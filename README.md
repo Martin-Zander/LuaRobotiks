@@ -32,7 +32,7 @@ target = GetInput(self, 5)
 
 Robotik-Override-Functions
 Robotik-Functions are always greenish and always only have an "self" as the first argument.
-![[Pasted image 20230301145914.png]]
+<img src="https://i.ibb.co/cJjxTqy/Bild-2023-03-09-010251908.png" alt="Bild-2023-03-09-010251908" border="0"></a> \n
 ```lua
 --Gets Called by the Signal-Function
 -- Functions -> [OnSignal0, OnSignal1, OnSignal2, OnSignal3, OnSignal4, OnSignal5
