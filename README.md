@@ -11,8 +11,7 @@ Robotiks is completly working in Multiplayer(Tested in ListenServer).
 Robotik-Functions are always orange and always need an "self" as the first argument.
 <img src="https://i.ibb.co/MfLWD0f/Bild-2023-03-09-010044616.png" alt="Bild-2023-03-09-010044616" border="0"></a> \
 
-Robotik-Override-Functions
-Robotik-Functions are always greenish and always only have an "self" as the first argument.
+Robotik-Override-Functions are always greenish and always only have an "self" as the first argument.
 <img src="https://i.ibb.co/cJjxTqy/Bild-2023-03-09-010251908.png" alt="Bild-2023-03-09-010251908" border="0"></a> \n
 ```lua
 --Gets Called by the Signal-Function
