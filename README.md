@@ -10,25 +10,6 @@ Robotiks is completly working in Multiplayer(Tested in ListenServer).
 ### Robotiks-Functions
 Robotik-Functions are always orange and always need an "self" as the first argument.
 <img src="https://i.ibb.co/MfLWD0f/Bild-2023-03-09-010044616.png" alt="Bild-2023-03-09-010044616" border="0"></a> \
-Functions:
-```lua
---Calls the OnSignal0-Function on the 5th input
--- 5 = InputIndex
--- 0 = SignalIndex
-Signal(self, 5, 0)
-
---Destroys the Target-Object
--- target = Target to Detroy
-Destroy(self, target)
-
---Calls the OnSignal5-Function on self
--- 5 = SignalIndex
-SignalSelf(self, 5)
-
---Gets the Object Assigned at Input 5
--- 5 = InputIndex
-target = GetInput(self, 5)
-```
 
 Robotik-Override-Functions
 Robotik-Functions are always greenish and always only have an "self" as the first argument.
