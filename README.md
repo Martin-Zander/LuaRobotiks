@@ -7,6 +7,15 @@ The Lua-Integration runs via an modified LuaMachine (originally by rdeioris [htt
 Robotiks is completly working in Multiplayer(Tested in ListenServer).
 
 # Get Started
+The 10 Red Dots at the Left Side represent the Inputs/Connections this Robotiks has, Red means none, Green mean something.
+The 10 Blue Buttons on the Right Side are used to Trigger Signals on this Robotiks manually.
+The Green Button in the Right-Bottom corner is used to save your changes and to Reload Lua, so that your code can be executed.
+The Blue Button in the Left-Bottom corner is used to send this Robotiks to all other Robotiks as an Input.
+On which input this Robotiks will set itself on the other Robotiks depends on the ID that is set below. [0-9]
+The Input below that is the Frequency on which this Robotik should send itself to other Robotiks. Only Robotiks with the same Frequency will get this Robotiks as an Input when the "Send Self" Button is Pressed.
+The Right Button in the Top-Right Corner is used for exiting the Robotik.
+<img src="https://i.ibb.co/6nYtNGF/Bild-2023-03-09-013059662.png" alt="Bild-2023-03-09-013059662" border="0"></a>
+
 Robotik-Functions are always orange and always need an "self" as the first argument.
 <img src="https://i.ibb.co/MfLWD0f/Bild-2023-03-09-010044616.png" alt="Bild-2023-03-09-010044616" border="0"></a>
 
