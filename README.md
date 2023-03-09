@@ -20,6 +20,26 @@ Robotik-Override-Functions are always greenish and always only have an "self" as
 function OnSignal0(self)
     print("Im On!")
 end
+
+Functions:
+```lua
+--Calls the OnSignal0-Function on the 5th input
+-- 5 = InputIndex
+-- 0 = SignalIndex
+Signal(self, 5, 0)
+
+--Destroys the Target-Object
+-- target = Target to Detroy
+Destroy(self, target)
+
+--Calls the OnSignal5-Function on self
+-- 5 = SignalIndex
+SignalSelf(self, 5)
+
+--Gets the Object Assigned at Input 5
+-- 5 = InputIndex
+target = GetInput(self, 5)
+```
 ```
 
 
